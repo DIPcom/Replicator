@@ -1,5 +1,5 @@
 {
-	"name": "DIPcom/forms-replicator",
+	"name": "dipcom/forms-replicator",
 	"type": "library",
 	"description": "Nette forms container replicator aka addDynamic",
 	"keywords": ["nette", "kdyby", "forms", "replicator", "addDynamic"],
